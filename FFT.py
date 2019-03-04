@@ -1,7 +1,5 @@
 from tkinter import *
-import parser
 from scipy import fftpack
-from sympy import factorint
 import numpy as np
 
 
