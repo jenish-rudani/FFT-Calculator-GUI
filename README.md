@@ -1,2 +1,2 @@
 # FFT-Calculator-GUI
-This is a GUI form of FFT calculator.
+This is a GUI form of Mathematical FFT calculator.
